@@ -1,0 +1,29 @@
+/* main styles page */
+#navbar {
+	background-color: #ccffff;
+	width: 100%;
+	height: 80px;
+}
+
+#logo {
+	position: relative;
+	width: 15%;
+}
+
+#menuitmes {
+	padding-left: 100px;
+}
+
+li {
+	display: inline-block;
+}
+
+li a {
+	text-decoration: none;
+	font-color: #000000;
+	display: block;
+}
+
+ul {
+	text-align: center;
+}
