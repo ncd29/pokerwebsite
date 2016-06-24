@@ -11,7 +11,7 @@
 			<a href="index.php">Search for a specific type of hand</a>
 		</li>
 		<li>
-			<a href="index.php">About</a>
+			<a href="about.php">About</a>
 		</li>
 		<li>
 			<a href="index.php">Login?</a>
