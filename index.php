@@ -59,13 +59,12 @@
 			<!-- contains the actions available for the hand -->
 			<div id="actions">
 				<?php
-					echo "oh ok";
-					// failing here
+					// testing here - function works, ajax call doesn't
 					include "includes/functions.php";
 					echo "oh rly";
 					$hand_data = loadHand();
 					echo "oh herro";
-					echo $hand_data;
+					var_dump($hand_data);
 				?>
 			</div>
 			<div id="display-text">

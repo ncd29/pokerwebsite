@@ -8,9 +8,9 @@ define('DB_HOST', 'localhost');
 define('DB_NAME', 'Poker');
 
 //course server username
-define('DB_USER', 'ncd29sp16');
+define('DB_USER', 'root');
 
 //password
-define('DB_PASSWORD', 'davenport');
+define('DB_PASSWORD', 'root');
 
 ?>
