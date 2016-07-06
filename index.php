@@ -4,8 +4,8 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="ajax/ajax.js"></script>
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	// <script src="ajax/ajax.js"></script> -->
 	<title>Poker Hand Trainer</title>
 </head>
 <body>
@@ -60,11 +60,11 @@
 			<div id="actions">
 				<?php
 					// testing here - function works, ajax call doesn't
-					include "includes/functions.php";
-					echo "oh rly";
-					$hand_data = loadHand();
-					echo "oh herro";
-					var_dump($hand_data);
+					// include "includes/functions.php";
+					// echo "oh rly";
+					// $hand_data = loadHand();
+					// echo "oh herro";
+					// var_dump($hand_data);
 				?>
 			</div>
 			<div id="display-text">

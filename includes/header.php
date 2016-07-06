@@ -8,7 +8,7 @@
 		</li>
 		<li>
 			<!-- TODO: fill in with actual files -->
-			<a href="index.php">Search for a specific type of hand</a>
+			<a href="search.php">Search for a specific type of hand</a>
 		</li>
 		<li>
 			<a href="about.php">About</a>
