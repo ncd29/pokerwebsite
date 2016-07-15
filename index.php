@@ -13,9 +13,9 @@
 	<?php include "includes/header.php" ?>
 	<div id="table-interface">
 		<!-- table and seats -->
-		<div id="upper">
+		<!-- <div id="upper">
 			<div id="table">
-				<!-- correspond to each seat at the table -->
+				correspond to each seat at the table
 				<div class="seat" id="one">
 					<div class="cards">
 					</div>
@@ -52,7 +52,7 @@
 					<div class="cards">
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 		<!-- action buttons -->
 		<div id="lower">
@@ -60,19 +60,19 @@
 			<div id="actions">
 				<?php
 					// testing here - function works, ajax call doesn't
-					// include "includes/functions.php";
-					// echo "oh rly";
+					echo "testing";
+					//include "includes/functions.php";
+					echo "oh rly";
 					// $hand_data = loadHand();
-					// echo "oh herro";
 					// var_dump($hand_data);
 				?>
 			</div>
-			<div id="display-text">
+			<!-- <div id="display-text">
 			</div>
 			<div id="next-hand">
-				<!-- TODO: links -->
+				TODO: links
 				<a class="button" href="index.php">Go to the next hand</a>
-			</div>
+			</div> -->
 		</div>
 	</div>
 

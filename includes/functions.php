@@ -1,8 +1,9 @@
 <?php
 	//phpinfo();
-	require "config.php";
+	echo " ok";
+	require "./config.php";
 	// helper functions file
-	//echo "print\n";
+	echo "print\n";
 	$mysqli = new mysqli(DB_HOST,DB_USER,DB_PASSWORD,DB_NAME);
 
 	// connection error for MYSQL

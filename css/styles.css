@@ -7,7 +7,7 @@ things to add/change/try:
 
 #navbar {
 	display: table;
-	background-color: #00ffff;
+	background-color: #fff;
 	width: 100%;
 	border: 2px solid #000066;
 }
@@ -28,7 +28,7 @@ ul {
 
 li {
     float: left;
-    width: 300px;
+    width: 25%;
 }
 
 li a {
@@ -37,11 +37,13 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: #e68a40;
+    background-color: #4d94ff;
+    font-family: Futura, sans-serif;
+    font-size: 15px;
 }
 
 li a:hover {
-    background-color: #ffffff;
+    background-color: #346392;
 }
 
 #table-interface {
@@ -53,7 +55,7 @@ li a:hover {
 	margin-left: 35px;
 }
 
-#upper {
+/*#upper {
 	position: relative;
 	width: 100%;
 	height: 75%;
@@ -66,8 +68,8 @@ li a:hover {
 	border: 2px solid #000000;
 	height: 24%;
 	background-color: #ff0000;
-}
-
+}*/
+/*
 #table {
 	position: relative;
 	width: 80%;
@@ -89,7 +91,7 @@ li a:hover {
 	border-radius: 100%;
 }
 
-/* location for each poker seat */
+ location for each poker seat 
 #one {
 	left: 575px;
 	top: -10px;
@@ -137,7 +139,7 @@ li a:hover {
 
 .cards {
 	position: relative;
-	/* maybe change this background color depending on situation */
+	/* maybe change this background color depending on situation 
 	background-color: #ffffff;
 	width: 70%;
 	height: 60%;
@@ -147,10 +149,10 @@ li a:hover {
 
 .hidden {
 	display: none;
-}
+}*/
 /* below here is the action bar below the table */
 
-#actions {
+/*#actions {
 	position: relative;
 	display: inline-block;
 	width: 35%;
@@ -183,7 +185,7 @@ li a:hover {
 	text-decoration: none;
 	color: #000000;
 	font-size: 48px;
-}
+}*/
 
 /* about.php */
 .containter {
@@ -235,8 +237,10 @@ li a:hover {
 }
 
 .column {
-	display: inline-table;
-	margin-left: 42px;
+	float: left;
+	/*display: inline-table;
+	margin-left: 42px;*/
+	width: 25%;
 }
 
 .header {

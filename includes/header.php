@@ -3,18 +3,18 @@
 	<ul>
 		<li>
 			<div id="logo">
-				<h2>Logo goes here</h2>
+				<a href="index.php">Poker Hands Database</a>
 			</div>
 		</li>
 		<li>
 			<!-- TODO: fill in with actual files -->
-			<a href="search.php">Search for a specific type of hand</a>
+			<a href="search.php">Search</a>
 		</li>
 		<li>
 			<a href="about.php">About</a>
 		</li>
 		<li>
-			<a href="index.php">Login?</a>
+			<a href="index.php">Help</a>
 		</li>
 	</ul>
 </div>
