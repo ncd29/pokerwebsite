@@ -15,6 +15,39 @@
 		<form method="post" action="search.php">
 	        <div class="column">
 	        	<div class="header">
+	        		Search by stake level
+	        		<div>
+			            <input id="checkbox-17" class="checkbox-custom" name="25NL" type="checkbox">
+			            <label for="checkbox-17" class="checkbox-custom-label">25NL</label>
+			        </div>
+			        <div>
+			            <input id="checkbox-18" class="checkbox-custom" name="50NL" type="checkbox">
+			            <label for="checkbox-18" class="checkbox-custom-label">50NL</label>
+			        </div>
+			        <div>
+			            <input id="checkbox-19" class="checkbox-custom" name="100NL" type="checkbox">
+			            <label for="checkbox-19" class="checkbox-custom-label">100NL</label>
+			        </div>
+			        <div>
+			            <input id="checkbox-20" class="checkbox-custom" name="200NL" type="checkbox">
+			            <label for="checkbox-20" class="checkbox-custom-label">200NL</label>
+			        </div>
+			        <div>
+			            <input id="checkbox-21" class="checkbox-custom" name="400NL" type="checkbox">
+			            <label for="checkbox-21" class="checkbox-custom-label">400NL</label>
+			        </div>
+			        <div>
+			            <input id="checkbox-22" class="checkbox-custom" name="600NL" type="checkbox">
+			            <label for="checkbox-22" class="checkbox-custom-label">600NL</label>
+			        </div>
+			        <div>
+			            <input id="checkbox-23" class="checkbox-custom" name="1000NL" type="checkbox">
+			            <label for="checkbox-23" class="checkbox-custom-label">1000NL</label>
+			        </div>
+	        	</div>
+	        </div>
+	        <div class="column">
+	        	<div class="header">
 	        		Search by starting hands
 			        <div>
 			            <input id="checkbox-1" class="checkbox-custom" name="QQ-AA" type="checkbox">

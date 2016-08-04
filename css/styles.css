@@ -5,6 +5,10 @@ things to add/change/try:
 
 */
 
+body {
+	font-family: Futura, sans-serif
+}
+
 #navbar {
 	display: table;
 	background-color: #fff;
@@ -192,6 +196,18 @@ li a:hover {
 	width: 80%;
 }
 
+.container h2 {
+	text-align: center;
+}
+
+.container p {
+	font-family: Palatino Linotype, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
 /* search.php */
 .checkbox-custom {
     opacity: 0;
@@ -240,7 +256,7 @@ li a:hover {
 	float: left;
 	/*display: inline-table;
 	margin-left: 42px;*/
-	width: 25%;
+	width: 20%;
 }
 
 .header {

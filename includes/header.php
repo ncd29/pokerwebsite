@@ -7,14 +7,13 @@
 			</div>
 		</li>
 		<li>
-			<!-- TODO: fill in with actual files -->
 			<a href="search.php">Search</a>
 		</li>
 		<li>
 			<a href="about.php">About</a>
 		</li>
 		<li>
-			<a href="index.php">Help</a>
+			<a href="help.php">Help</a>
 		</li>
 	</ul>
 </div>

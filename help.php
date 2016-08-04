@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- home page -->
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -10,7 +9,7 @@
 	<!-- nav bar goes here -->
 	<?php include "includes/header.php" ?>
 	<div class="container">
-		<h2>About this Application</h2>
+		<h2>Help Page</h2>
 		<p>This website is intented as a querying tool for those who are interested in 
 			viewing Texas Hold'em hand histories and finding statistics about them.  The
 			hand histories consist of millions of hands played on various online sites
